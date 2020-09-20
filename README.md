@@ -1,2 +1,6 @@
 # Coursera_Capstone
-This is the first notebook of Applied Data Science Capstone Course for Peer-graded Assignment: Capstone Project Notebook of Week 1
+  This is the first notebook of Applied Data Science Capstone Course for Peer-graded Assignment: Capstone Project Notebook of Week 1
+
+# Introduction/Business Problem 
+
+  To reduce the frequency of car collisions at a location, current weather, road, and visibility conditions should be taken into account and an algorithm should be developed to estimate the material and spiritual seriousness of the accident. The main purpose of this study is to prevent accidents when conditions are bad, so this model helps protect drivers from the risks they will encounter. Another possible target audience for this study is as follows. Local police, health institutes, insurance companies, etc. They can use this model well and take action to know when they will be ready to receive bad news about a particular road. In many cases, carelessness while driving, using drugs and alcohol, or driving too fast are some of the main causes of accidents that can be prevented by applying stronger regulations. Besides the above reasons, weather, visibility, or road conditions are the main uncontrollable factors that can be avoided by revealing hidden patterns in the data and reporting a warning to the local government, police, and road drivers.
